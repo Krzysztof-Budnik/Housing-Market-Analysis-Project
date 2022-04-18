@@ -16,6 +16,6 @@ The analysis document is split into several parts that include:
 All three parts of the analysis are supported by relevant data visualizations.
 
 #### **Project files**
-Main analysis is carried in juperter notebook file: <br />
+Main analysis is carried in juperter notebook file: `hausing_market_analysis.ipynb` <br />
 The web scraper components: `webscraper_functions.py` and `webscraper_elements.py` <br /> 
 are included in the directory
