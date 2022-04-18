@@ -17,5 +17,5 @@ All three parts of the analysis are supported by relevant data visualizations.
 
 #### **Project files**
 Main analysis is carried in juperter notebook file: <br />
-The web scrapper components: `webscraper_functions.py` and `webscraper_elements.py` <br /> 
+The web scraper components: `webscraper_functions.py` and `webscraper_elements.py` <br /> 
 are included in the directory
