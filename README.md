@@ -6,7 +6,7 @@ Project main goal is to run complex analysis to investigate key factors influenc
 <br />
 The analysis document is split into several parts that include:
 - **Data aquisition** (building custom web scraping solution to source high quality and real world data)
-- **Importing data** (transforming csv file into pandas dataframe)
+- **Importing data** (gathering and transforming csv files into pandas dataframe)
 - **Exploratory data analysis** (process of discovering the structure of data and its patterns)
 - **Data Cleaning** (reformating the columns allowing mathematical operations, increasing readability and seting assumptions)
 - **General Analysis** (discovering the distribution of property prices, influence of districts on price)
